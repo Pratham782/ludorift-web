@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CpoCVDXT.js","./index-DTvosBsz.js","./index-B4LpdmV0.css"])))=>i.map(i=>d[i]);
-import{r as e,t}from"./index-DTvosBsz.js";var n=e(`SplashScreen`,{web:()=>t(()=>import(`./web-CpoCVDXT.js`).then(e=>new e.SplashScreenWeb),__vite__mapDeps([0,1,2]),import.meta.url)});export{n as SplashScreen};
